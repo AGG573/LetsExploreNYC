@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">LetsExploreNYC</string>
+    <string name="Intro">
+        Welcome to New York City! New York City is a dazzling place unlike any other filled with tons
+        of history and culture. NYC is comprised of five boroughs; Manhattan, Brooklyn, Queens,
+        The Bronx and Staten Island. There is something to do in every borough. How would you like
+        to explore?
+    </string>
+    <string name="OneWorld">
+        Located in Lower Manhattan, One World Trade center was built as a part of reconstruction efforts
+        after the Twin Towers were destroyed during the 9/11 terror attacks. Construction on One WTC,
+        or the "Freedom Tower" as its known to locals, began in 2007 and it opened to the public in
+        2015. One WTC stands at a whopping 104 stories high (1776 feet) and is the tallest building
+        in the Western Hemisphere.\n\n
+
+        <i>(Source: oneworldobservatory.com)</i>
+    </string>
+    <string name="OneWorldAddress">
+        285 Fulton St, New York, NY 10007
+    </string>
+    <string name="OWTimes">
+        <b>Hours of Operation:</b>
+        \nSunday through Saturday: 9am - 10pm
+    </string>
+    <string name="OWCNumber">Phone: (844) 696-1776</string>
+    <string name="OWCost">
+        General Admission:\n
+        $32 adults (16+)\n
+        $30 senior citizens (65+)\n
+        $26 youth (6-15)\n
+        Free for children 5 and under\n\n
+        <i>* additional costs</i></string>
+    <string name="Transit">
+        <b>To get here:</b>\n
+        Trains: 1,2,3,4,5,A,C,E,J,R,W,Z and PATH\n
+        Bus: M22, M5, M20, M9, M103
+    </string>
+
+    <string name="MMI">
+        The Museum of the Moving Image credits itself as being the only museum in the United States
+        dedicated to exploring the art, history and technology of the moving image. The Museum of the Moving
+        Image originally opened back 1988, but was revamped 2011 to include stunning new screening rooms
+        that accommodate twice as many visitors. Perfect for kids and adults alike, MoMI is a fun, informative
+        and inviting place for museum-goers around the world.\n\n
+
+        (Source: movingimage.us)
+    </string>
+    <string name="MMIAddress">
+        36-01 35th Ave, Astoria, NY 11106
+    </string>
+    <string name="MMITimes">
+        Hours of Operation:
+        \nMonday - Tuesday: CLOSED
+        \nWednesday – Thursday: 10:30am – 5pm
+        \nFriday: 10:30am 8pm (free admission: 4pm - 8pm)
+        \nSaturday and Sunday: 10:30am - 6pm
+    </string>
+    <string name="MMIPhone">
+        Phone: (718) 777-6800
+    </string>
+    <string name="MMITCosts">
+        Admission:
+        \n$15 adults (18+)
+        \n$11 senior citizens (65+)
+        \n$11 students with valid ID (18+)
+        \n$9  youth (3-17)
+        \nFree for Museum members and children under 3
+    </string>
+    <string name="Transit2">
+    To get here:
+    \nTrains: R, M (weekdays only) @ Steinway St, N, W (weekdays only) @ 36 Ave
+    \nBus: Q101, Q66
+    </string>
+    <string name="ProspectParkInfo">
+       Prospect Park was designed Frederick Law Olmsted and Calvert Vaux in the mid-19th century
+        and is the second largest park in Brooklyn. Although, it is not the biggest park in NYC (526
+        acres), there is certainly much to do. Prospect Park has 11 tennis courts, 7 baseball fields,
+        4 hiking trails, horseback riding, an ice skating rink and is home to the famous Prospect Park
+        Botanical Garden and Prospect Park Zoo. It is no wonder this park welcomes 10 million visitors
+        a year.\n\n
+
+        <i>(Source: prospectpark.org)</i>
+    </string>
+    <string name="PPTimes">
+        Hours:
+        \nSunday through Saturday: 5am - 1am
+    </string>
+    <string name="PPNumber">
+        Phone: (718) 965-8951
+    </string>
+    <string name="PPAddress">
+        Brooklyn, NY 11225
+    </string>
+    <string name="TransitPP">
+        To get here:
+        \nTrains: Q, B, S, @ Prospect Park, F, G @ 7 Avenue and Walk
+        \nBus: B68, B61, B41
+    </string>
+</resources>

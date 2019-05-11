@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bkbridge">
+
+    <Button
+        android:id="@+id/ManhattanButton"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="15dp"
+        android:text="Manhattan"
+        android:textColor="#FFFFFF"
+        android:background="#AE241E1E"
+        android:textSize="18sp"
+        />
+
+    <Button
+        android:id="@+id/QueensButton"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="15dp"
+        android:textColor="#FFFFFF"
+        android:background="#AE241E1E"
+        android:textSize="18sp"
+        android:text="Queens"
+        />
+
+    <Button
+        android:id="@+id/BrooklynButton"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="15dp"
+        android:textColor="#FFFFFF"
+        android:background="#AE241E1E"
+        android:textSize="18sp"
+        android:text="Brooklyn"
+        />
+
+    <Button
+        android:id="@+id/BronxButton"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="15dp"
+        android:textColor="#FFFFFF"
+        android:background="#AE241E1E"
+        android:textSize="18sp"
+        android:text="The Bronx"
+        />
+
+    <Button
+        android:id="@+id/SIButton"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="15dp"
+        android:textColor="#FFFFFF"
+        android:background="#AE241E1E"
+        android:textSize="18sp"
+        android:text="Staten Island"
+        />
+
+    </LinearLayout>
